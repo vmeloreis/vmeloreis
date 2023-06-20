@@ -16,6 +16,7 @@ Im an I.T student for UFRN with various skills!
 
 
 📱 Contact Information:
+
 ![Gmail](https://img.shields.io/badge/viniciusmeloreisdonascimento@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
