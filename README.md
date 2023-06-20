@@ -1,5 +1,22 @@
-### Hi there 👋
-dasidjasid
+### Hi, Im Vinícius Melo! 🙋
+
+Im an I.T student for UFRN with various skills!
+
+🧠 My knowledge:
+https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white  https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+
+📱 Contact Information:
+viniciusmeloreisdonascimento@gmail.com
+
+
+
+
+
+
+
+
 
 <!--
 **vmeloreis/vmeloreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
